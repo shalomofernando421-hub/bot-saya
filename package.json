@@ -1,0 +1,17 @@
+{
+  "name": "bot-sendiri-paket-lengkap",
+  "version": "1.0.0",
+  "description": "Bot WhatsApp buatan sendiri - lengkap siap pasang",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "6.6.0",
+    "pino": "^8.19.0",
+    "fs": "^0.0.1-security"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
